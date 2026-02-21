@@ -46,7 +46,13 @@
 
 - JavaScript (ES6)
 
+## 🎬📽
+
+[screen-capture (1).webm](https://github.com/user-attachments/assets/42709370-4850-40fc-a150-ec6285e00a66)
+
+
 ## Run the development server
 
 ```bash
 npm run dev
+
