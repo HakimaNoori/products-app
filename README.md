@@ -1,16 +1,52 @@
-# React + Vite
+## 🛍️ Product Catalog Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## A modern and responsive Product Catalog web application built using React, React Router, Tailwind CSS v3, and Vite.
 
-Currently, two official plugins are available:
+## 📌 Project Overview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- This project is a simple e-commerce style product catalog where users can:
 
-## React Compiler
+- View a list of products
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- Click on a product to see detailed information
 
-## Expanding the ESLint configuration
+- Navigate between pages using React Router
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- See a custom 404 page for invalid routes
+
+- The application is fully responsive and styled using Tailwind CSS v3.
+
+## 🚀 Features
+
+- ✅ Responsive design (Mobile, Tablet, Desktop)
+
+- ✅ Modern UI with Tailwind CSS v3
+
+- ✅ Product listing with clean card layout
+
+- ✅ Product details page
+
+- ✅ Dynamic routing using React Router
+
+- ✅ Custom 404 Not Found page
+
+- ✅ Smooth hover effects and transitions
+
+- ✅ Organized component structure
+
+## 🛠 Technologies Used
+
+- React
+
+- React Router
+
+- Tailwind CSS v3
+
+- Vite
+
+- JavaScript (ES6)
+
+## Run the development server
+
+```bash
+npm run dev
